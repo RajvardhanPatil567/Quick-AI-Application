@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+• Built a full-stack SaaS application with AI tools (text/image generation/) using the PERN stack. • Developed secure RESTful APIs with JWT authentication for user management. • Integrated OpenAI API to deliver AI-powered features like ChatGPT-style interactions. • Designed a responsive UI using React.js and Tailwind CSS for an enhanced user experience. • Utilized Prisma ORM for optimized PostgreSQL database interactions. • Deployed frontend on Vercel and backend on Render for high availability.
